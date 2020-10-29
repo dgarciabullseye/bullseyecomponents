@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dgarciabullseye/bullseyecomponents/static/css/main.3b6d6304.chunk.css",
+    "main.js": "/dgarciabullseye/bullseyecomponents/static/js/main.89da386a.chunk.js",
+    "main.js.map": "/dgarciabullseye/bullseyecomponents/static/js/main.89da386a.chunk.js.map",
+    "runtime-main.js": "/dgarciabullseye/bullseyecomponents/static/js/runtime-main.800e89cf.js",
+    "runtime-main.js.map": "/dgarciabullseye/bullseyecomponents/static/js/runtime-main.800e89cf.js.map",
+    "static/css/2.20552933.chunk.css": "/dgarciabullseye/bullseyecomponents/static/css/2.20552933.chunk.css",
+    "static/js/2.45c9742e.chunk.js": "/dgarciabullseye/bullseyecomponents/static/js/2.45c9742e.chunk.js",
+    "static/js/2.45c9742e.chunk.js.map": "/dgarciabullseye/bullseyecomponents/static/js/2.45c9742e.chunk.js.map",
+    "static/js/3.8889406d.chunk.js": "/dgarciabullseye/bullseyecomponents/static/js/3.8889406d.chunk.js",
+    "static/js/3.8889406d.chunk.js.map": "/dgarciabullseye/bullseyecomponents/static/js/3.8889406d.chunk.js.map",
+    "index.html": "/dgarciabullseye/bullseyecomponents/index.html",
+    "static/css/2.20552933.chunk.css.map": "/dgarciabullseye/bullseyecomponents/static/css/2.20552933.chunk.css.map",
+    "static/css/main.3b6d6304.chunk.css.map": "/dgarciabullseye/bullseyecomponents/static/css/main.3b6d6304.chunk.css.map",
+    "static/js/2.45c9742e.chunk.js.LICENSE.txt": "/dgarciabullseye/bullseyecomponents/static/js/2.45c9742e.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/dgarciabullseye/bullseyecomponents/static/media/revicons.e8746a62.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.800e89cf.js",
+    "static/css/2.20552933.chunk.css",
+    "static/js/2.45c9742e.chunk.js",
+    "static/css/main.3b6d6304.chunk.css",
+    "static/js/main.89da386a.chunk.js"
+  ]
+}
