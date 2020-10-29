@@ -1,10 +1,12 @@
 import React from "react";
 import Carousel from "react-multi-carousel";
+import PropTypes from "prop-types";
 import "react-multi-carousel/lib/styles.css";
-import "./ImageCarousel.scss";
+import "./Carousel.scss";
 import "lazysizes";
 
-const ImageCarousel = ({ productArray, title, itemNumber, containerExtraClass }) => {
+/** Carousel component*/
+function ImageCarousel({ productArray, title, itemNumber, containerExtraClass }) {
 	const responsive = {
 		superLargeDesktop: {
 			// the naming can be any, depends on you.
@@ -54,6 +56,17 @@ const ImageCarousel = ({ productArray, title, itemNumber, containerExtraClass })
 			</Carousel>
 		</div>
 	);
+}
+
+Carousel.propTypes = {
+	/** Array that contains a list of images */
+	productArray: PropTypes.array.isRequired,
+	/** title related to the carousel */
+	title: PropTypes.string,
+	/** number of items */
+	itemNumber: PropTypes.number,
+	/** css class */
+	containerExtraClass: PropTypes.string
 };
 
 export default ImageCarousel;
